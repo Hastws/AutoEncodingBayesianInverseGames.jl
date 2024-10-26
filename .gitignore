@@ -1,5 +1,3 @@
-*.mp4
-*.jld2
 test/Manifest.toml
 experiment/DrivingExample/src/inverse_game/debugging.jl
 *.csv
